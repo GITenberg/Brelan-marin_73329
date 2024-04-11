@@ -1,0 +1,34 @@
+_repo: Brelan-marin_73329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montfort, Eugène
+    aliases:
+    - Montfort, Eugene
+    - Montfort, E. (Eugène)
+    - Montfort, Eugène Jules
+    birthdate: 1877
+    deathdate: 1936
+    gutenberg_agent_id: '52848'
+    url: http://www.gutenberg.org/2009/agents/52848
+    wikipedia: https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Montfort
+description: ''
+gutenberg_issued: '2024-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73329'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5806542v
+pgterms:marc905: 20240226225437montfort
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bLibrairie de France, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Brelan marin
+url: http://www.gutenberg.org/ebooks/73329
